@@ -1,5 +1,10 @@
 # React & Firestore 템플릿
 
+# 설치할 라이브러리
+- yarn add react-router-dom
+- yarn add redux react-redux
+- yarn add firebase
+
 # Firestore 설정하기 ↓↓↓
 - https://duckgugong.tistory.com/206
 
